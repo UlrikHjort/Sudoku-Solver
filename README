@@ -1,0 +1,2 @@
+Sudoku solver. Read 9x9 sudoku from text file and solve it. See structure for sudoku matrix in data file in the data directory. 
+Empty places in the sudoku is indicated by '0'. The solver is only guaranteed to work correct on sudokus wich have only one solution.
